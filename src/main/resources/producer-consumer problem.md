@@ -1,0 +1,1 @@
+The producer-consumer problem is a synchronization scenario where one or more producer threads generate data and put it into a shared buffer, while one or more consumer threads retrieve and process the data from the buffer concurrently
